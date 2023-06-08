@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-size: 1em;
+    outline: none;
+    box-sizing: border-box;
+    font-style: normal;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+}
+
+img {
+    display: block;
+}
+
+body {
+    line-height: 1;
+    background-color: #fff;
+    color: #000;
+}
+
+ol,
+ul,
+li,
+menu {
+    list-style: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+address {
+    font-style: normal;
+}
+
+.hidden {
+    display: none;
+}
